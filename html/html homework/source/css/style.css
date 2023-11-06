@@ -1,0 +1,39 @@
+body {
+    padding: 0;  
+    margin: 0 auto;    
+}
+
+.container {
+    /* width: 100; */
+    max-width: 1150px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+
+table {
+    width: 100%;
+    border-spacing: 0;
+    border: solid 2px coral;
+}
+
+tbody {
+    border-bottom: 1px coral;
+}
+
+.avatar {
+    width: 80px;
+    height: 100px;
+}
+
+thead tr th {
+    background-color: aquamarine;
+    color: black;
+    padding: 5px;
+}

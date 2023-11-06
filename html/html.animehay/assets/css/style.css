@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1150px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    background-color: #ccc;
+}
+
+.btn {
+    padding: 10px;
+    border: 0;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #b73a3a;
+}
+
+.btn-primary {
+    background-color: #3a79af;
+}
+
+.content .head {
+    align-items: center;
+}
+
+.content .head .title {
+    background-color: #000;
+    padding: 0 30px 0 20px;
+}
+
+#update-new .head {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5px 0 0;
+    background-color: #6e6e6e;
+}
+
+.color-gray {
+    color: #a7a7a7;
+}
+
+.container .content {
+    padding: 10px;
+}
